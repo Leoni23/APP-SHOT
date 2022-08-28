@@ -1,2 +1,2 @@
-# APP-SHOT
-https://licores-mockapi.netlify.app/
+# React-Fundamentos
+Plantilla de trabajo para los fundamentos de React y los principales Hooks
