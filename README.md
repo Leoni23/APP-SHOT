@@ -1,2 +1,2 @@
-# React-Fundamentos
-Plantilla de trabajo para los fundamentos de React y los principales Hooks
+# React-Fundamentos - APP SHOT
+CRUD con productos de una licoreria + Buscador 
